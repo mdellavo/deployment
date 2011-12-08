@@ -1,0 +1,16 @@
+rsync
+git
+subversion
+python-setuptools 
+ufw            
+fail2ban 
+uwsgi-python
+uwsgi-extra
+nginx
+mailutils
+monit
+build-essential
+python-dev
+unixodbc-dev
+libxml2-dev
+libxslt1-dev
